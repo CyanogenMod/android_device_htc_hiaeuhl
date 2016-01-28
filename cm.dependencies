@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_htc_hiae-common",
+    "target_path": "device/htc/hiae-common"
+  }
+]
