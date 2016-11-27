@@ -3,9 +3,6 @@ $(call inherit-product, device/htc/hiaeuhl/full_hiaeuhl.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 PRODUCT_NAME := cm_hiaeuhl
 BOARD_VENDOR := htc
 TARGET_VENDOR := htc
